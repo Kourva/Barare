@@ -1,5 +1,5 @@
-> OK Guys my internet connection suck! 2 files are missing...<br>
-> One is **icon.png** and one is **bg.jpg**<br>
+> OK Guys my internet connection suck! 1 file is missing...<br>
+> **icon.png**<br>
 > I will upload them ASAP<br>
 
 # Barare
