@@ -1,6 +1,4 @@
-> OK Guys my internet connection suck! 1 file is missing...<br>
-> **icon.png**<br>
-> I will upload them ASAP<br>
+
 
 # Barare
 #### Kivy android app with login page | You can use it and add your functions !
