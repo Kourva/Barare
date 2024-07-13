@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Barare By Kourva
-# Github: https://github.com/Kourva
+# Barare By kozyol
+# Github: https://github.com/kozyol
 
 # Imports
 import random
