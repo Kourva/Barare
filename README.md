@@ -18,7 +18,7 @@
 # Install
 + clone
 ```bash
-git clone https://github.com/Kourva/Barare
+git clone https://github.com/kozyol/Barare
 ```
 + requiremets
 ```bash
